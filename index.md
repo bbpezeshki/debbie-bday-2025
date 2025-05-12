@@ -1,6 +1,6 @@
 ---
 layout: default
-image: thumbnail.png
+background-image: thumbnail.png
 ---
 
 ## Please RSVP to Debbie, Linus, or Bobak
